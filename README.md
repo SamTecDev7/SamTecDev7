@@ -1,12 +1,12 @@
 ### Olá, me chamo Samuel Silva<br>Fique à vontade
 ##
-- Trabalho: Atualmente Desenvolvedor e um dos repensáveis pela área de tecnologia na empresa Clube Envios
-- Nível: Sou desenvolvedor pleno, porem busco a novos níveis todos os dias
-- Paixão: Apaixonado por tecnologias, busco diariamente desenvolver novas ferramentas que facilitem o trabalho de muitas pessoas
-- Desenvolvimento: Web, Mobile/Android, Linux, Windows, Mec
-- Back-end: PHP, Python, MySQL, JavaScript, LowCode(Kodular)
-- Front-end: HTML5, CSS3, BootsTrap, JavaScript
-- FrameWorks: CodeIgniter, Laravel, Laminas, ElectronJs, NodeJs [...]
+- <strong>Trabalho:</strong> Atualmente Desenvolvedor e um dos repensáveis pela área de tecnologia na empresa Clube Envios
+- <strong>Nível:</strong> Sou desenvolvedor pleno, porem busco a novos níveis todos os dias
+- <strong>Paixão:</strong> Apaixonado por tecnologias, busco diariamente desenvolver novas ferramentas que facilitem o trabalho de muitas pessoas
+- <strong>Desenvolvimento:</strong> Web, Mobile/Android, Linux, Windows, Mec
+- <strong>Back-end:</strong> PHP, Python, MySQL, JavaScript, LowCode(Kodular)
+- <strong>Front-end:</strong> HTML5, CSS3, BootsTrap, JavaScript
+- <strong>FrameWorks/softwares:</strong> CodeIgniter, Laravel, Laminas, ElectronJs, NodeJs [...]
 
 <div>
     <a href="https://github.com/SamTecDev7">
