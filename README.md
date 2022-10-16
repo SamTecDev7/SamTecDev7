@@ -35,4 +35,3 @@
 <p align="center">
 Volte sempre!
 </p>
-<img align="center" alt="Math-CSS" height="30" src="https://media.vlpt.us/images/cadenzah/post/120c72ed-ba80-46a9-b38d-2a7c01171965/network.gif">
