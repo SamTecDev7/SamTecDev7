@@ -10,8 +10,8 @@
 
 <div>
     <a href="https://github.com/SamTecDev7">
-    <img height="152em" src="https://github-readme-stats.vercel.app/api?username=matheussantosspbr&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true"/>
-    <img height="152em"  src="https://github-readme-stats.vercel.app/api/top-langs/?username=matheussantosspbr&layout=compact&langs_count=7&theme=tokyonight"/>
+    <img height="152em" src="https://github-readme-stats.vercel.app/api?username=SamTecDev7&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true"/>
+    <img height="152em"  src="https://github-readme-stats.vercel.app/api/top-langs/?username=SamTecDev7&layout=compact&langs_count=7&theme=tokyonight"/>
   </div>
   <div style="display: flex; align-items: center;
   justify-content: center;"><br>
@@ -30,9 +30,9 @@
 </div>
  
  <p align="center">
- Visitas no meu perfil desde o dia 15/08/2022 : 🕵 <br></p>
+ Visitas no meu perfil desde o dia 15/10/2022 : 🕵 <br></p>
 <p align="center"> 
    <img alingn="center" src="https://profile-counter.glitch.me/SamTecDev7/count.svg" /></p>
 <p align="center">
-Obrigado e volte sempre! 😄
+Volte sempre!
 </p>
