@@ -7,7 +7,7 @@
 - <strong>Back-end:</strong> PHP, Python, MySQL, JavaScript, LowCode(Kodular)
 - <strong>Front-end:</strong> HTML5, CSS3, BootsTrap, JavaScript
 - <strong>FrameWorks/softwares:</strong> CodeIgniter, Laravel, Laminas, ElectronJs, NodeJs [...]
-
+<hr>
 <div>
     <a href="https://github.com/SamTecDev7">
     <img height="152em" src="https://github-readme-stats.vercel.app/api?username=SamTecDev7&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true"/>
@@ -27,7 +27,7 @@
   <a href = "mailto:samtec.dev7@gmail.com"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
   <a href="https://www.linkedin.com/in/samuel-souza-57924822a/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a>
 </div>
- 
+ <hr>
  <p align="center">
  Visitas no meu perfil desde o dia 15/10/2022 : 🕵 <br></p>
 <p align="center"> 
