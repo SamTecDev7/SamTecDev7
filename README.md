@@ -30,9 +30,9 @@
 </div>
  
  <p align="center">
- Quantidade de visitas no meu perfil desde o dia 14/09/2021 : 🕵 <br></p>
+ Visitas no meu perfil desde o dia 15/08/2022 : 🕵 <br></p>
 <p align="center"> 
-   <img alingn="center" src="https://profile-counter.glitch.me/matheussatnosspbr/count.svg" /></p>
+   <img alingn="center" src="https://profile-counter.glitch.me/SamTecDev7/count.svg" /></p>
 <p align="center">
 Obrigado e volte sempre! 😄
 </p>
