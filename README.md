@@ -1,6 +1,6 @@
 ### Olá, me chamo Samuel Silva<br>Fique à vontade
 ##
-- <strong>Trabalho:</strong> Atualmente Desenvolvedor e um dos repensáveis pela área de tecnologia na empresa Clube Envios
+- <strong>Trabalho:</strong> Atualmente sou Desenvolvedor e um dos repensáveis pela área de tecnologia na empresa Clube Envios
 - <strong>Nível:</strong> Sou desenvolvedor pleno, porem busco a novos níveis todos os dias
 - <strong>Paixão:</strong> Apaixonado por tecnologias, busco diariamente desenvolver novas ferramentas que facilitem o trabalho de muitas pessoas
 - <strong>Desenvolvimento:</strong> Web, Mobile/Android, Linux, Windows, Mec
@@ -23,13 +23,13 @@
   </div><br>
   
 <div>
-  <a href="https://www.instagram.com/samtecdev/" target="_blank"><img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank"></a>
-  <a href = "mailto:samtec.dev7@gmail.com"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
-  <a href="https://www.linkedin.com/in/samuel-souza-57924822a/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a>
+  <a href="https://www.instagram.com/samtecdev/" target="_blank"><img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white"></a>
+  <a href = "mailto:samtec.dev7@gmail.com" target="_blank"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white"></a>
+  <a href="https://www.linkedin.com/in/samuel-souza-57924822a/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white"></a>
 </div>
  <hr>
  <p align="center">
- Visitas no meu perfil desde o dia 15/10/2022 : 🕵 <br></p>
+ Visitas no meu perfil desde o dia 15/10/2022<br></p>
 <p align="center"> 
    <img alingn="center" src="https://profile-counter.glitch.me/SamTecDev7/count.svg" /></p>
 <p align="center">
