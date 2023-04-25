@@ -1,7 +1,7 @@
 ### Olá, me chamo Samuel Silva<br>Fique à vontade
 ##
 - <strong>Trabalho:</strong> Atualmente sou Desenvolvedor e um dos repensáveis pela área de tecnologia na empresa Clube Envios
-- <strong>Nível:</strong> Sou desenvolvedor pleno, porem busco a novos níveis todos os dias
+- <strong>Nível:</strong> Tenho 5 anos de experiencia na área sou desenvolvedor pleno, porem busco alcaçar novos níveis de conhecimentos todos os dias
 - <strong>Paixão:</strong> Apaixonado por tecnologias, busco diariamente desenvolver novas ferramentas que facilitem o trabalho de muitas pessoas
 - <strong>Desenvolvimento:</strong> Web, Mobile/Android, Linux, Windows, Mec
 - <strong>Back-end:</strong> PHP, Python, MySQL, JavaScript, LowCode(Kodular)
