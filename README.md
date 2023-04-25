@@ -1,6 +1,6 @@
 # Sobre mim
 
-Olá, meu nome é [SEU NOME] e sou desenvolvedor com 5 anos de experiência na área. Atualmente, trabalho como Desenvolvedor e um dos responsáveis pela área de tecnologia na empresa Clube Envios. Minha paixão por tecnologias me motiva a buscar constantemente novos conhecimentos para desenvolver ferramentas que facilitem o trabalho das pessoas.
+Olá, meu nome é Samuel e sou desenvolvedor com 5 anos de experiência na área. Atualmente, trabalho como Desenvolvedor e um dos responsáveis pela área de tecnologia na empresa Clube Envios. Minha paixão por tecnologias me motiva a buscar constantemente novos conhecimentos para desenvolver ferramentas que facilitem o trabalho das pessoas.
 
 <hr>
 <div>
