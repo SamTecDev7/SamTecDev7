@@ -1,12 +1,7 @@
-### Olá, me chamo Samuel Silva<br>Fique à vontade
-##
-- <strong>Trabalho:</strong> Atualmente sou Desenvolvedor e um dos repensáveis pela área de tecnologia na empresa Clube Envios
-- <strong>Nível:</strong> Tenho 5 anos de experiencia na área sou desenvolvedor pleno, porem busco alcaçar novos níveis de conhecimentos todos os dias
-- <strong>Paixão:</strong> Apaixonado por tecnologias, busco diariamente desenvolver novas ferramentas que facilitem o trabalho de muitas pessoas
-- <strong>Desenvolvimento:</strong> Web, Mobile/Android, Linux, Windows, Mec
-- <strong>Back-end:</strong> PHP, Python, MySQL, JavaScript, LowCode(Kodular)
-- <strong>Front-end:</strong> HTML5, CSS3, BootsTrap, JavaScript
-- <strong>FrameWorks/softwares:</strong> CodeIgniter, Laravel, Laminas, ElectronJs, NodeJs [...]
+# Sobre mim
+
+Olá, meu nome é [SEU NOME] e sou desenvolvedor com 5 anos de experiência na área. Atualmente, trabalho como Desenvolvedor e um dos responsáveis pela área de tecnologia na empresa Clube Envios. Minha paixão por tecnologias me motiva a buscar constantemente novos conhecimentos para desenvolver ferramentas que facilitem o trabalho das pessoas.
+
 <hr>
 <div>
     <a href="https://github.com/SamTecDev7">
@@ -20,18 +15,45 @@
     <img align="center" alt="Math-Js" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
     <img align="center" alt="Math-HTML" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
     <img align="center" alt="Math-CSS" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
-  </div><br>
-  
-<div>
-  <a href="https://www.instagram.com/samtecdev/" target="_blank"><img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white"></a>
-  <a href = "mailto:samtec.dev7@gmail.com" target="_blank"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white"></a>
-  <a href="https://www.linkedin.com/in/samuel-souza-57924822a/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white"></a>
 </div>
- <hr>
- <p align="center">
- Visitas no meu perfil desde o dia 15/10/2022<br></p>
-<p align="center"> 
-   <img alingn="center" src="https://profile-counter.glitch.me/SamTecDev7/count.svg" /></p>
-<p align="center">
-Volte sempre!
-</p>
+<br>
+
+## Habilidades
+
+Minhas habilidades incluem o desenvolvimento em:
+- Web
+- APIs
+- Mobile/Android
+- Linux
+- Windows
+- Mec
+
+No back-end, possuo conhecimento em:
+- PHP
+- Python
+- MySQL
+- JavaScript
+- LowCode (Kodular)
+
+No front-end, tenho habilidades em:
+- HTML5
+- CSS3
+- BootsTrap
+- JavaScript
+
+Também possuo experiência em design de interfaces de usuário (UI) e experiência do usuário (UX), criando wireframes e protótipos para garantir a melhor experiência do usuário. Trabalho com ferramentas como Adobe XD, Figma, entre outras.
+
+## Frameworks/Softwares
+
+Trabalho com diversos frameworks e softwares, incluindo:
+- CodeIgniter 3 e 4
+- Laravel ^8.x
+- Laminas
+- ElectronJs
+- NodeJs
+- [...]
+
+## Contato
+
+Se quiser saber mais sobre mim ou entrar em contato, você pode me encontrar no <a href="https://wa.me/5584994697165">-> WhatsApp <-</a>
+
