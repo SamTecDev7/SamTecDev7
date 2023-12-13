@@ -1,6 +1,8 @@
 # Sobre mim
 
-Olá, meu nome é Samuel e sou desenvolvedor há mais de 5 anos com muita experiência na área. Atualmente, trabalho como Desenvolvedor e um dos responsáveis pela área de tecnologia na empresa Clube Envios. Minha paixão por tecnologias me motiva a buscar constantemente novos conhecimentos para desenvolver ferramentas que facilitem o trabalho das pessoas.
+Olá, meu nome é Samuel, e sou desenvolvedor há mais de 6 anos, com uma ampla experiência na área. Atualmente, desempenho o papel de Desenvolvedor e sou um dos responsáveis pela área de tecnologia na empresa Clube Envios. Minha paixão pelas tecnologias me impulsiona a buscar constantemente novos conhecimentos, visando desenvolver ferramentas inovadoras que facilitem o trabalho das pessoas.
+
+*Destaco minha abordagem criteriosa na manutenção de código, sempre priorizando a criação e manutenção de um código limpo e bem estruturado. Acredito que uma base sólida e organizada é fundamental para o desenvolvimento de sistemas robustos e de alta qualidade.*
 
 <hr>
 <div>
@@ -17,6 +19,10 @@ Olá, meu nome é Samuel e sou desenvolvedor há mais de 5 anos com muita experi
     <img align="center" alt="Math-CSS" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
 </div>
 <br>
+
+## Graduação em andamento
+
+- Ciência da computação
 
 ## Habilidades
 
@@ -38,8 +44,11 @@ No back-end, possuo conhecimento em:
 No front-end, tenho habilidades em:
 - HTML5
 - CSS3
-- BootsTrap
+- BootsTrap 4.x, 5.x
+- tailwind css
 - JavaScript
+- ReactJs
+- NextJs
 
 Também possuo experiência em design de interfaces de usuário (UI) e experiência do usuário (UX), criando wireframes e protótipos para garantir a melhor experiência do usuário. Trabalho com ferramentas como Adobe XD, Figma, entre outras.
 
@@ -55,5 +64,5 @@ Trabalho com diversos frameworks e softwares, incluindo:
 
 ## Contato
 
-Se quiser saber mais sobre mim ou entrar em contato, você pode me encontrar no <a href="https://wa.me/5584994697165">-> WhatsApp <-</a>
+Se quiser saber mais sobre mim ou entrar em contato, você pode me encontrar no <a href="https://wa.me/5562992313758">-> WhatsApp <-</a>
 
