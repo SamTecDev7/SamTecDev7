@@ -7,7 +7,6 @@ Olá, meu nome é Samuel, e sou desenvolvedor há mais de 6 anos, com uma ampla 
 <hr>
 <div>
     <a href="https://github.com/SamTecDev7">
-    <img height="152em" src="https://github-readme-stats.vercel.app/api?username=SamTecDev7&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true"/>
     <img height="152em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=SamTecDev7&layout=compact&langs_count=7&theme=tokyonight"/>
   </div>
   <div style="display: flex; align-items: center;
