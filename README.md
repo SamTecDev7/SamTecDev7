@@ -35,7 +35,7 @@ Olá, meu nome é Samuel, e sou desenvolvedor há mais de 6 anos, com uma ampla 
 </div>
 <br>
 
-## Graduação em andamento
+## Graduação
 
 - Ciência da computação
 
