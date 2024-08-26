@@ -17,7 +17,7 @@ Olá, meu nome é Samuel, e sou desenvolvedor há mais de 6 anos, com uma ampla 
     <img align="center" alt="Math-HTML" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
     <img align="center" alt="Math-CSS" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
     <img align="center" alt="Math-Bootstrap" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/bootstrap/bootstrap-plain.svg" />
-    <img align="center" alt="Math-TailwindCSS" height="30" width="30" src="https://avatars.githubusercontent.com/u/67109815?s=48&v=4" style="max-width: 100%;margin: 0 5px;">
+    &nbsp;<img align="center" alt="Math-TailwindCSS" height="30" width="30" src="https://avatars.githubusercontent.com/u/67109815?s=48&v=4">&nbsp;
     <img align="center" alt="Math-React" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" />
     <img align="center" alt="Math-NextJs" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nextjs/nextjs-original-wordmark.svg" />
     <img align="center" alt="Math-NodeJs" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" />
@@ -27,8 +27,8 @@ Olá, meu nome é Samuel, e sou desenvolvedor há mais de 6 anos, com uma ampla 
     <img align="center" alt="Math-Dart" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/dart/dart-original.svg" />
     <img align="center" alt="Math-Flutter" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/flutter/flutter-original.svg" />
     <img align="center" alt="Math-CodeIgniter" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/codeigniter/codeigniter-plain.svg" />
-    <img align="center" alt="Math-Laravel" height="30" width="30" src="https://avatars.githubusercontent.com/u/958072?s=48&amp;v=4" style="max-width: 100%;margin: 0 5px;">
-    <img align="center" alt="Math-Laminas" height="30" width="30" src="https://avatars.githubusercontent.com/u/58709497?s=48&v=4" style="max-width: 100%;margin: 0 5px;">
+    &nbsp;<img align="center" alt="Math-Laravel" height="30" width="30" src="https://avatars.githubusercontent.com/u/958072?s=48&amp;v=4">
+    &nbsp;<img align="center" alt="Math-Laminas" height="30" width="30" src="https://avatars.githubusercontent.com/u/58709497?s=48&v=4">&nbsp;
     <img align="center" alt="Math-AdobeXD" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/xd/xd-plain.svg" />
     <img align="center" alt="Math-Figma" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/figma/figma-original.svg" />
 
