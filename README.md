@@ -28,7 +28,7 @@ Olá, meu nome é Samuel, e sou desenvolvedor há mais de 6 anos, com uma ampla 
     <img align="center" alt="Math-Flutter" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/flutter/flutter-original.svg" />
     <img align="center" alt="Math-CodeIgniter" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/codeigniter/codeigniter-plain.svg" />
     <img align="center" alt="Math-Laravel" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/laravel/laravel-plain.svg" />
-    <img align="center" alt="Math-Laminas" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/laminas/laminas-original.svg" />
+    <img align="center" alt="Math-Laminas" height="30" width="40" src="https://avatars.githubusercontent.com/u/58709497?s=48&v=4" />
     <img align="center" alt="Math-AdobeXD" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/xd/xd-plain.svg" />
     <img align="center" alt="Math-Figma" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/figma/figma-original.svg" />
 
