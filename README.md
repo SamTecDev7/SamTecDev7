@@ -38,7 +38,8 @@ No back-end, possuo conhecimento em:
 - Python
 - MySQL
 - JavaScript
-- LowCode (Kodular)
+- Dart (Basico)
+- LowCode (Kodular, FlutterFlow)
 
 No front-end, tenho habilidades em:
 - HTML5
@@ -59,9 +60,10 @@ Trabalho com diversos frameworks e softwares, incluindo:
 - Laminas
 - ElectronJs
 - NodeJs
+- Flutter
 - [...]
 
 ## Contato
 
-Se quiser saber mais sobre mim ou entrar em contato, você pode me encontrar no <a href="https://wa.me/5562992313758">-> WhatsApp <-</a>
+Para saber mais sobre mim é só entrar em contato, você pode me encontrar no <a href="https://wa.me/5562992313758">-> WhatsApp <-</a>
 
