@@ -1,6 +1,6 @@
 # Sobre mim
 
-Olá, meu nome é Samuel, e sou desenvolvedor há mais de 6 anos, com uma ampla experiência na área. Atualmente, desempenho o papel de Desenvolvedor e sou um dos responsáveis pela área de tecnologia na empresa Clube Envios. Minha paixão pelas tecnologias me impulsiona a buscar constantemente novos conhecimentos, visando desenvolver ferramentas inovadoras que facilitem o trabalho das pessoas.
+Olá, meu nome é Samuel, e sou desenvolvedor há mais de 6 anos, com uma ampla experiência na área. Atualmente, desempenho o papel de Desenvolvedor e responsáveis pela área de tecnologia na empresa Clube Envios. Minha paixão pelas tecnologias me impulsiona a buscar constantemente novos conhecimentos, visando desenvolver ferramentas inovadoras que facilitem o trabalho das pessoas.
 
 *Destaco minha abordagem criteriosa na manutenção de código, sempre priorizando a criação e manutenção de um código limpo e bem estruturado. Acredito que uma base sólida e organizada é fundamental para o desenvolvimento de sistemas robustos e de alta qualidade.*
 
