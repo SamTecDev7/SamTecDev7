@@ -1,4 +1,6 @@
+<div style="color: #ccc">
 # Sobre mim
+<div/>
 
 Olá, meu nome é Samuel, e sou desenvolvedor há mais de 6 anos, com uma ampla experiência na área. Atualmente, desempenho o papel de Desenvolvedor e responsáveis pela área de tecnologia na empresa Clube Envios. Minha paixão pelas tecnologias me impulsiona a buscar constantemente novos conhecimentos, visando desenvolver ferramentas inovadoras que facilitem o trabalho das pessoas.
 
