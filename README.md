@@ -5,10 +5,6 @@ Sou programador FullStack com uma boa bagagem, focado em criar soluções que re
 *Destaco minha abordagem criteriosa na manutenção de código, sempre priorizando a criação e manutenção de um código limpo e bem estruturado. Acredito que uma base sólida e organizada é fundamental para o desenvolvimento de sistemas robustos e de alta qualidade.*
 
 <hr>
-<div>
-    <a href="https://github.com/SamTecDev7">
-    <img height="152em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=SamTecDev7&layout=compact&langs_count=7&theme=tokyonight"/>
-  </div>
   <div style="display: flex; align-items: center;
   justify-content: center;"><br>
     <img align="center" alt="Math-PHP" height="40" width="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/php/php-plain.svg" />
