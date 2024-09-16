@@ -1,8 +1,6 @@
-<div style="color: #ccc">
 # Sobre mim
-<div/>
 
-Olá, meu nome é Samuel, e sou desenvolvedor há mais de 6 anos, com uma ampla experiência na área. Atualmente, desempenho o papel de Desenvolvedor e responsáveis pela área de tecnologia na empresa Clube Envios. Minha paixão pelas tecnologias me impulsiona a buscar constantemente novos conhecimentos, visando desenvolver ferramentas inovadoras que facilitem o trabalho das pessoas.
+Sou programador FullStack com uma boa bagagem, focado em criar soluções que realmente fazem a diferença, especialmente no setor de logística. Tenho experiência com PHP, JavaScript, Flutter, React e outros frameworks, além de trabalhar com bancos de dados como PostgreSQL e MySQL. Gosto de me envolver em todo o processo, desde a ideia inicial até a entrega, sempre buscando otimizar e simplificar o que parece complicado.
 
 *Destaco minha abordagem criteriosa na manutenção de código, sempre priorizando a criação e manutenção de um código limpo e bem estruturado. Acredito que uma base sólida e organizada é fundamental para o desenvolvimento de sistemas robustos e de alta qualidade.*
 
