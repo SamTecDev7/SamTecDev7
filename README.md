@@ -1,81 +1,46 @@
 # Sobre mim
 
-Sou programador FullStack com uma boa bagagem, focado em criar soluções que realmente fazem a diferença, especialmente no setor de logística. Tenho experiência com PHP, JavaScript, Flutter, React e outros frameworks, além de trabalhar com bancos de dados como PostgreSQL e MySQL. Gosto de me envolver em todo o processo, desde a ideia inicial até a entrega, sempre buscando otimizar e simplificar o que parece complicado.
+Olá! Sou o Samuel, um desenvolvedor FullStack apaixonado por transformar ideias em soluções práticas e impactantes. Com experiência sólida em PHP, JavaScript, Flutter, React, Python e diversos frameworks, atuei em projetos que vão desde sistemas de logística até plataformas de automação e trading. Recentemente, tenho aprofundado meus conhecimentos em Inteligência Artificial, aplicando modelos de IA para otimizar processos, analisar mercados e criar experiências mais inteligentes.
 
-*Destaco minha abordagem criteriosa na manutenção de código, sempre priorizando a criação e manutenção de um código limpo e bem estruturado. Acredito que uma base sólida e organizada é fundamental para o desenvolvimento de sistemas robustos e de alta qualidade.*
+Sempre acredito que a tecnologia está a serviço das pessoas, por isso mantenho um olhar humano em tudo que faço. Gosto de me envolver em todo o fluxo de desenvolvimento: da concepção ao deploy, buscando simplificar desafios complexos e garantir código limpo, organizado e escalável.
 
 <hr>
-  <div style="display: flex; align-items: center;
-  justify-content: center;"><br>
-    <img align="center" alt="Math-PHP" height="40" width="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/php/php-plain.svg" />
-    <img align="center" alt="Math-Python" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg">
-    <img align="center" alt="Math-Js" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
-    <img align="center" alt="Math-HTML" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
-    <img align="center" alt="Math-CSS" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
-    <img align="center" alt="Math-Bootstrap" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/bootstrap/bootstrap-plain.svg" />
-    &nbsp;<img align="center" alt="Math-TailwindCSS" height="30" width="30" src="https://avatars.githubusercontent.com/u/67109815?s=48&v=4">&nbsp;
-    <img align="center" alt="Math-React" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" />
-    <img align="center" alt="Math-NextJs" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nextjs/nextjs-original-wordmark.svg" />
-    <img align="center" alt="Math-NodeJs" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" />
-    <img align="center" alt="Math-ElectronJs" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/electron/electron-original.svg" />
-    <img align="center" alt="Math-Linux" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linux/linux-original.svg" />
-    <img align="center" alt="Math-MySQL" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" />
-    <img align="center" alt="Math-Dart" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/dart/dart-original.svg" />
-    <img align="center" alt="Math-Flutter" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/flutter/flutter-original.svg" />
-    <img align="center" alt="Math-CodeIgniter" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/codeigniter/codeigniter-plain.svg" />
-    &nbsp;<img align="center" alt="Math-Laravel" height="30" width="30" src="https://avatars.githubusercontent.com/u/958072?s=48&amp;v=4">
-    &nbsp;<img align="center" alt="Math-Laminas" height="30" width="30" src="https://avatars.githubusercontent.com/u/58709497?s=48&v=4">&nbsp;
-    <img align="center" alt="Math-AdobeXD" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/xd/xd-plain.svg" />
-    <img align="center" alt="Math-Figma" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/figma/figma-original.svg" />
-
+<div style="display: flex; align-items: center; justify-content: center;"><br>
+  <!-- ícones de tecnologias -->
+  <img align="center" alt="PHP" height="40" width="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/php/php-plain.svg" />
+  <img align="center" alt="Python" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg">
+  <img align="center" alt="JavaScript" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
+  <img align="center" alt="HTML5" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
+  <img align="center" alt="CSS3" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
+  <img align="center" alt="Bootstrap" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/bootstrap/bootstrap-plain.svg" />
+  <img align="center" alt="TailwindCSS" height="30" width="30" src="https://avatars.githubusercontent.com/u/67109815?s=48&v=4">
+  <img align="center" alt="React" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" />
+  <img align="center" alt="Next.js" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nextjs/nextjs-original-wordmark.svg" />
+  <img align="center" alt="Node.js" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" />
+  <img align="center" alt="Flutter" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/flutter/flutter-original.svg" />
 </div>
-<br>
 
 ## Graduação
 
-- Ciência da computação
+* Ciência da Computação
 
 ## Habilidades
 
-Minhas habilidades incluem o desenvolvimento em:
-- Web
-- APIs
-- Mobile/Android
-- Linux
-- Windows
-- Mec
+* Desenvolvimento Web, APIs e Mobile
+* Automação de tarefas e pipelines
+* Trade e análise de mercados financeiros
+* Integração de sistemas com IA e bots inteligentes
+* Bancos de dados SQL (PostgreSQL, MySQL) e NoSQL
+* Metodologias ágeis e boas práticas de código
 
-No back-end, possuo conhecimento em:
-- PHP
-- Python
-- MySQL
-- JavaScript
-- Dart (Basico)
-- LowCode (Kodular, FlutterFlow)
+## Ferramentas e Frameworks
 
-No front-end, tenho habilidades em:
-- HTML5
-- CSS3
-- BootsTrap 4.x, 5.x
-- tailwind css
-- JavaScript
-- ReactJs
-- NextJs
-
-Também possuo experiência em design de interfaces de usuário (UI) e experiência do usuário (UX), criando wireframes e protótipos para garantir a melhor experiência do usuário. Trabalho com ferramentas como Adobe XD, Figma, entre outras.
-
-## Frameworks/Softwares
-
-Trabalho com diversos frameworks e softwares, incluindo:
-- CodeIgniter 3 e 4
-- Laravel ^8.x
-- Laminas
-- ElectronJs
-- NodeJs
-- Flutter
-- [...]
+* **Back-end:** PHP (Laravel, CodeIgniter, Laminas), Python
+* **Front-end:** JavaScript (React, Next.js), Flutter
+* **DevOps & Infra:** Docker, CI/CD, Cloudflare
+* **Design:** Figma, Adobe XD
 
 ## Contato
 
-Para saber mais sobre mim é só entrar em contato, você pode me encontrar no <a href="https://wa.me/5562992313758">-> WhatsApp <-</a>
-
+Vamos conversar? Me ache no WhatsApp: [+55 62 99231-3758](https://wa.me/5562992313758)
+Ou descubra mais nos meus projetos e contribuições aqui no GitHub.
