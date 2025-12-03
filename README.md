@@ -1,46 +1,48 @@
-# Sobre mim
+# Samuel Silva
 
-Olá! Sou o Samuel, um desenvolvedor FullStack apaixonado por transformar ideias em soluções práticas e impactantes. Com experiência sólida em PHP, JavaScript, Flutter, React, Python e diversos frameworks, atuei em projetos que vão desde sistemas de logística até plataformas de automação e trading. Recentemente, tenho aprofundado meus conhecimentos em Inteligência Artificial, aplicando modelos de IA para otimizar processos, analisar mercados e criar experiências mais inteligentes.
+Desenvolvedor focado em **automação**, **trading algorítmico** e **sistemas web**.
 
-Sempre acredito que a tecnologia está a serviço das pessoas, por isso mantenho um olhar humano em tudo que faço. Gosto de me envolver em todo o fluxo de desenvolvimento: da concepção ao deploy, buscando simplificar desafios complexos e garantir código limpo, organizado e escalável.
+Nos últimos meses, venho trabalhando com **Python** para construir APIs de trading que se conectam a plataformas de opções binárias via WebSocket. O projeto mais recente é uma API completa que implementa login com 2FA, verificação por SMS, indicadores técnicos e gestão de ordens em tempo real.
 
-<hr>
-<div style="display: flex; align-items: center; justify-content: center;"><br>
-  <!-- ícones de tecnologias -->
-  <img align="center" alt="PHP" height="40" width="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/php/php-plain.svg" />
-  <img align="center" alt="Python" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg">
-  <img align="center" alt="JavaScript" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
-  <img align="center" alt="HTML5" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
-  <img align="center" alt="CSS3" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
-  <img align="center" alt="Bootstrap" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/bootstrap/bootstrap-plain.svg" />
-  <img align="center" alt="TailwindCSS" height="30" width="30" src="https://avatars.githubusercontent.com/u/67109815?s=48&v=4">
-  <img align="center" alt="React" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" />
-  <img align="center" alt="Next.js" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nextjs/nextjs-original-wordmark.svg" />
-  <img align="center" alt="Node.js" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" />
-  <img align="center" alt="Flutter" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/flutter/flutter-original.svg" />
+---
+
+<div align="center">
+  <img alt="Python" height="35" width="45" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg">
+  <img alt="JavaScript" height="35" width="45" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
+  <img alt="PHP" height="45" width="55" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/php/php-plain.svg" />
+  <img alt="React" height="35" width="45" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" />
+  <img alt="Node.js" height="35" width="45" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" />
+  <img alt="Flutter" height="35" width="45" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/flutter/flutter-original.svg" />
 </div>
 
-## Graduação
+---
 
-* Ciência da Computação
+## O que tenho feito
 
-## Habilidades
+**2025** — API de trading com Python
+- WebSocket para comunicação em tempo real
+- Autenticação com 2FA e verificação por SMS
+- Indicadores técnicos e análise de mercado
+- Gestão de ordens e posições
 
-* Desenvolvimento Web, APIs e Mobile
-* Automação de tarefas e pipelines
-* Trade e análise de mercados financeiros
-* Integração de sistemas com IA e bots inteligentes
-* Bancos de dados SQL (PostgreSQL, MySQL) e NoSQL
-* Metodologias ágeis e boas práticas de código
+**2024** — Integrações e automação
+- API para Mercado Livre (Node.js)
+- Sistemas de logística e envios
 
-## Ferramentas e Frameworks
+## Stack
 
-* **Back-end:** PHP (Laravel, CodeIgniter, Laminas), Python
-* **Front-end:** JavaScript (React, Next.js), Flutter
-* **DevOps & Infra:** Docker, CI/CD, Cloudflare
-* **Design:** Figma, Adobe XD
+| Área | Tecnologias |
+|------|-------------|
+| **Back-end** | Python, PHP (Laravel, CodeIgniter), Node.js |
+| **Front-end** | React, Next.js |
+| **Mobile** | Flutter |
+| **Banco de dados** | PostgreSQL, MySQL |
+| **Infra** | Docker, CI/CD |
+
+## Formação
+
+Ciência da Computação
 
 ## Contato
 
-Vamos conversar? Me ache no WhatsApp: [+55 62 99231-3758](https://wa.me/5562992313758)
-Ou descubra mais nos meus projetos e contribuições aqui no GitHub.
+WhatsApp: [+55 62 99231-3758](https://wa.me/5562992313758)
