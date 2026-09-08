@@ -4,7 +4,7 @@ Desenvolvedor Full Stack e responsável pela **SamTEC Desenvolvimentos**.
 
 **Estratégia, tecnologia e crescimento digital.**
 
-[Conheça o portfólio completo da SamTEC](https://samtec-desenvolvimentos.aurasound1007.chatgpt.site)
+[Conheça o portfólio completo da SamTEC](https://samtecdev.com)
 
 Transformo ideias e necessidades de negócios em sistemas, sites e produtos digitais. Atuo do planejamento à entrega e à evolução da solução, escolhendo a tecnologia de acordo com o problema, o contexto e os objetivos de cada projeto.
 
