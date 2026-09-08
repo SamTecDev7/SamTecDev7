@@ -46,6 +46,6 @@ Também desenvolvo soluções como **CodingSH**, para execução de tarefas de d
 
 ## Vamos conversar
 
-- [WhatsApp: +55 62 99231-3758](https://wa.me/5562992313758)
+- [WhatsApp: +55 (62) 9242-9432](https://wa.me/556292429432)
 - [LinkedIn](https://www.linkedin.com/in/samuelsouza-dev7/)
 - [E-mail: samtec.dev7@gmail.com](mailto:samtec.dev7@gmail.com)
