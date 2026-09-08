@@ -1,46 +1,51 @@
-# Sobre mim
+# Olá, sou o Samuel
 
-Olá! Sou o Samuel, um desenvolvedor FullStack apaixonado por transformar ideias em soluções práticas e impactantes. Com experiência sólida em PHP, JavaScript, Flutter, React, Python e diversos frameworks, atuei em projetos que vão desde sistemas de logística até plataformas de automação e trading. Recentemente, tenho aprofundado meus conhecimentos em Inteligência Artificial, aplicando modelos de IA para otimizar processos, analisar mercados e criar experiências mais inteligentes.
+Desenvolvedor Full Stack e responsável pela **SamTEC Desenvolvimentos**.
 
-Sempre acredito que a tecnologia está a serviço das pessoas, por isso mantenho um olhar humano em tudo que faço. Gosto de me envolver em todo o fluxo de desenvolvimento: da concepção ao deploy, buscando simplificar desafios complexos e garantir código limpo, organizado e escalável.
+**Estratégia, tecnologia e crescimento digital.**
 
-<hr>
-<div style="display: flex; align-items: center; justify-content: center;"><br>
-  <!-- ícones de tecnologias -->
-  <img align="center" alt="PHP" height="40" width="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/php/php-plain.svg" />
-  <img align="center" alt="Python" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg">
-  <img align="center" alt="JavaScript" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
-  <img align="center" alt="HTML5" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
-  <img align="center" alt="CSS3" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
-  <img align="center" alt="Bootstrap" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/bootstrap/bootstrap-plain.svg" />
-  <img align="center" alt="TailwindCSS" height="30" width="30" src="https://avatars.githubusercontent.com/u/67109815?s=48&v=4">
-  <img align="center" alt="React" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" />
-  <img align="center" alt="Next.js" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nextjs/nextjs-original-wordmark.svg" />
-  <img align="center" alt="Node.js" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" />
-  <img align="center" alt="Flutter" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/flutter/flutter-original.svg" />
-</div>
+[Conheça o portfólio completo da SamTEC](https://samtec-desenvolvimentos.aurasound1007.chatgpt.site)
 
-## Graduação
+Transformo ideias e necessidades de negócios em sistemas, sites e produtos digitais. Atuo do planejamento à entrega e à evolução da solução, escolhendo a tecnologia de acordo com o problema, o contexto e os objetivos de cada projeto.
 
-* Ciência da Computação
+## O que faço
 
-## Habilidades
+- Estratégia e planejamento de produtos e negócios digitais.
+- Desenvolvimento de sistemas, software sob medida, sites, APIs e aplicativos.
+- Integração de sistemas, automação de processos e aplicações de inteligência artificial.
+- Presença digital, redes sociais e tráfego pago com acompanhamento e otimização contínua.
+- DevOps, infraestrutura Linux e bancos de dados.
 
-* Desenvolvimento Web, APIs e Mobile
-* Automação de tarefas e pipelines
-* Trade e análise de mercados financeiros
-* Integração de sistemas com IA e bots inteligentes
-* Bancos de dados SQL (PostgreSQL, MySQL) e NoSQL
-* Metodologias ágeis e boas práticas de código
+Minha experiência inclui soluções para logística, automação e integração entre plataformas. Trabalho com negócios de diferentes segmentos e gosto de simplificar problemas complexos, mantendo atenção à manutenção e à experiência de quem usa.
 
-## Ferramentas e Frameworks
+## Projetos que desenvolvi
 
-* **Back-end:** PHP (Laravel, CodeIgniter, Laminas), Python
-* **Front-end:** JavaScript (React, Next.js), Flutter
-* **DevOps & Infra:** Docker, CI/CD, Cloudflare
-* **Design:** Figma, Adobe XD
+Uma seleção de trabalhos para clientes e iniciativas digitais:
 
-## Contato
+- [Waychat](https://waychat.pro/)
+- [Movemáquinas](https://movemaquinas.com.br/)
+- [Modelier](https://modelier.com.br/)
+- [AuraSound](https://aurasound.online/)
+- [Muzzic](https://muzzic.com.br/ads/youtube/)
+- [Clube Envios](https://clubeenvios.com.br/)
+- [Criartia](https://criartia.com.br/)
 
-Vamos conversar? Me ache no WhatsApp: [+55 62 99231-3758](https://wa.me/5562992313758)
-Ou descubra mais nos meus projetos e contribuições aqui no GitHub.
+Também desenvolvo soluções como **CodingSH**, para execução de tarefas de desenvolvimento com IA; **Aferir+**, para conferência de fretes e conciliação; e **Hub Cotação Legítima**, para gestão de cotações, clientes, produtos e fornecedores.
+
+**Kivva** é meu produto de produção criativa com IA, incluindo logos, posts e animações, com pedido, pagamento, aprovação e entrega pelo WhatsApp.
+
+## Tecnologias e ferramentas
+
+| Área | Tecnologias |
+| --- | --- |
+| Back-end | PHP, Laravel, CodeIgniter, Laminas, Python, Node.js |
+| Front-end e mobile | JavaScript, React, Next.js, Flutter, HTML, CSS, Bootstrap, Tailwind CSS |
+| Dados | PostgreSQL, MySQL, bancos NoSQL |
+| Infraestrutura | Linux, Docker, CI/CD, Cloudflare |
+| Design | Figma, Adobe XD |
+
+## Vamos conversar
+
+- [WhatsApp: +55 62 99231-3758](https://wa.me/5562992313758)
+- [LinkedIn](https://www.linkedin.com/in/samuelsouza-dev7/)
+- [E-mail: samtec.dev7@gmail.com](mailto:samtec.dev7@gmail.com)
